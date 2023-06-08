@@ -4,17 +4,8 @@
 }
 
 .bg-custom{
-    background-color: darkblue;
+    background-image: linear-gradient(to bottom, #000000, #0A0A2A, #101046, #1A1A5C);
     width: 100%;
-}
-
-.casita{
-    width: 30px;
-    height: 30px;
-}
-
-.casita:hover{
-    color: white;
 }
 
 .custom-brand{
@@ -24,4 +15,8 @@
 .custom-brand:hover{
     color: wheat;
     cursor: pointer;
+}
+
+img{
+    background-color: white;
 }
