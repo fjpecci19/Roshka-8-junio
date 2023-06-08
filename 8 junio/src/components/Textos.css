@@ -1,6 +1,6 @@
 .custom{
     height: 400px;
-    background-color: white;
+    background-color: whitesmoke;
     border: 1px solid red;
 }
 
@@ -15,4 +15,9 @@ img:hover{
 
 .sep{
     margin-right: 30px;
+}
+
+.btn-secondary:hover{
+    background-color: gray;
+    color: whitesmoke;
 }
