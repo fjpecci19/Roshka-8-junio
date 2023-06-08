@@ -4,7 +4,7 @@
 }
 
 .bg-custom{
-    background-color: white;
+    background-color: darkblue;
     width: 100%;
 }
 
@@ -17,7 +17,11 @@
     color: white;
 }
 
+.custom-brand{
+    color: white
+}
+
 .custom-brand:hover{
-    color: red;
+    color: wheat;
     cursor: pointer;
 }

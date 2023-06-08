@@ -12,7 +12,7 @@ function Textos() {
                         <img src="https://nubika.es/wp-content/uploads/2020/10/como-cuidar-pelo-husky.jpg.webp" alt="" />
                     </picture>
                 </div>
-                <div className='col-md-6'>
+                <div className='col-md-6 custom3'>
                     <br />
                     <br />
                     Busca Mascota es una plataforma open-source, para que mascotas perdidas puedan reencontrarse con sus dueños. <br /><br />
@@ -26,7 +26,7 @@ function Textos() {
         </div>
         <div className='container-fluid custom2'>
             <div className='row'>
-                <div className='col-md-6'>
+                <div className='col-md-6 custom3'>
                     <br />
                     <br />
                     ¿Quién puede utilizar el sitio?<br /><br />

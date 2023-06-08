@@ -1,19 +1,21 @@
 .custom{
     height: 400px;
-    background-color: whitesmoke;
-    border: 1px solid red;
+    background-image: linear-gradient(to bottom, #000000, #0A0A2A, #101046, #1A1A5C);
+
 }
 
 .custom2{
     height: 400px;
-    background-color: lightgray;
-    border: 1px solid red;
+    background-image: linear-gradient(to bottom, #000000, #0A0A2A, #101046, #1A1A5C);
 }
 
+.custom3{
+    color: white;
+}
 
 img{
     width: 600px;
-    height: 398px;
+    height: 400px;
 }
 
 img:hover{

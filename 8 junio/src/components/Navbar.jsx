@@ -21,7 +21,7 @@ function Navbar() {
                 <a className="navbar-brand custom-brand">Colaborar</a>
             </div>
             <div className="container-fluid">
-                <a className="navbar-brand disabled">Adopciones</a>
+                <a className="navbar-brand custom-brand disabled">Adopciones</a>
             </div>
         </nav>
     </div>
