@@ -1,10 +1,10 @@
 .perro{
     width: 200px;
-    height: 120px;
+    height: 100px;
 }
 
 .bg-custom{
-    background: linear-gradient(to bottom, #0f1928, #212d40, #3a4659);
+    background-color: darkblue;
     width: 100%;
 }
 
@@ -17,7 +17,7 @@
 }
 
 .custom-brand{
-    color: white
+    color: white;
 }
 
 .custom-brand:hover{
