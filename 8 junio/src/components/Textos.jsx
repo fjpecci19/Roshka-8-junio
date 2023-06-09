@@ -8,7 +8,6 @@ function Textos() {
             <div className='row'>
                 <div className='col-md-6'>
                     <picture>
-                        <source srcSet='https://nubika.es/wp-content/uploads/2020/10/como-cuidar-pelo-husky.jpg.webp' />
                         <img src="https://nubika.es/wp-content/uploads/2020/10/como-cuidar-pelo-husky.jpg.webp" alt="" />
                     </picture>
                 </div>
@@ -36,9 +35,35 @@ function Textos() {
                 </div>
                 <div className='col-md-6'>
                     <picture>
-                        <source srcSet='https://www.infobae.com/new-resizer/d76jNjx4IUq7J0J91SurdGirOtg=/992x558/filters:format(webp):quality(85)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2018/09/11124552/GettyImages-544673512.jpg' />
                         <img src="https://www.infobae.com/new-resizer/d76jNjx4IUq7J0J91SurdGirOtg=/992x558/filters:format(webp):quality(85)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2018/09/11124552/GettyImages-544673512.jpg" alt="" />
                     </picture>
+                </div>
+            </div>
+        </div>
+        <div className='container-fluid custom4'>
+            <div className='row'>
+                <div className='col-md-6'>
+                    <picture>
+                        <img src="https://images.unsplash.com/photo-1478098711619-5ab0b478d6e6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTV8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60" alt="" />
+                    </picture>
+                </div>
+                <div className='col-md-6 custom4'>
+                    <br />
+                    <br />
+                    <div className='letter'>
+                        Puedes colaborar para que <br />
+                        este sitio siga activo y <br />
+                        funcionando siempre
+                    </div><br />
+                    <button type='button' className='btn btn-secondary'>
+                        Colaborar
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div className='container-fluid custom'>
+            <div className='row'>
+                <div className='col-md-2'>
                 </div>
             </div>
         </div>
