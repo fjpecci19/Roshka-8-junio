@@ -15,9 +15,8 @@ function Textos() {
                     Busca Mascota es una plataforma open-source, para que mascotas perdidas puedan reencontrarse con sus dueños. <br /><br />
                     Puedes publicar tu mascota sin costo! <br /><br />
                     Y también será publicado en las redes oficiales de Busca Mascota automáticamente. <br /><br />
-                    <button type="button" class="btn btn-secondary">Buscar Mascota</button>
-                    <span className='sep'></span>
-                    <button type="button" class="btn btn-secondary">Publicar Mascota</button>
+                    <button type="button" class="btn btn-success">Buscar Mascota</button>
+                    <button type="button" class="btn btn-success">Publicar Mascota</button>
                 </div>
             </div>
         </div>
@@ -39,7 +38,7 @@ function Textos() {
         <div className='container-fluid custom4'>
             <div className='row'>
                 <div className='col-md-6'>
-                    <img className='perros' src="https://images.unsplash.com/photo-1478098711619-5ab0b478d6e6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTV8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60" alt="" />
+                    <img className='perros' src="https://as01.epimg.net/diarioas/imagenes/2022/04/20/actualidad/1650466413_240889_1650466661_noticia_normal_recorte1.jpg" alt="" />
                 </div>
                 <div className='col-md-6 custom4'>
                     <br />
@@ -49,7 +48,7 @@ function Textos() {
                         este sitio siga activo y <br />
                         funcionando siempre
                     </div><br />
-                    <button type='button' className='btn btn-secondary'>
+                    <button type='button' className='btn btn-success'>
                         Colaborar
                     </button>
                 </div>

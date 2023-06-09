@@ -58,7 +58,7 @@ function Colaborar() {
         conocidos o en las redes sociales! Dando a conocer una comunidad que se compromete con esta causa.</div><br />
         <div className='colaborar-texto'>Mientras más personas conozcan Busca Mascota, 
         más mascotras podrán reencontrarse con sus dueños!</div>
-      </div>
+      </div><br />
       <Creador/>
       <Footer/>
     </div>

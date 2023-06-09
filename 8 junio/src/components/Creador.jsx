@@ -20,8 +20,8 @@ function Creador() {
                     <div className='letter2'>
                         Vínculos
                     </div><br /><br />
-                    <button type='button' className='btn btn-secondary'>Términos</button>
-                    <button type='button' className='btn btn-secondary'>Código fuente</button>
+                    <button type='button' className='btn btn-success'>Términos</button>
+                    <button type='button' className='btn btn-success'>Código fuente</button>
                 </div>
                 <div className='col-md-4'>
                     <div className='letter2'>
