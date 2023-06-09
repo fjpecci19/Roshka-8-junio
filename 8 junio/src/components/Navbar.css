@@ -4,8 +4,16 @@
 }
 
 .bg-custom{
-    background-image: linear-gradient(to bottom, #000000, #0A0A2A, #101046, #1A1A5C);
+    background: linear-gradient(to bottom, #0f1928, #212d40, #3a4659);
     width: 100%;
+}
+
+.custom-brand2{
+    color: white;
+}
+
+.custom-brand2:hover{
+    color: white;
 }
 
 .custom-brand{

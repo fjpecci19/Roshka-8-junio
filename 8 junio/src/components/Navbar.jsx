@@ -6,7 +6,7 @@ function Navbar() {
     <div className="container-fluid bg-custom">
         <nav className="navbar navbar-expand">
             <div className="container-fluid">
-                <a className="navbar-brand custom-brand"><img className='perro' src="https://www.nationalgeographic.com.es/medio/2023/04/21/boyero-de-berna-1_00000000_230421205529_480x480.jpg"/></a>
+                <a className="navbar-brand custom-brand"><img className='perro' src="https://res.cloudinary.com/dkqtquwsj/image/upload/v1686259508/Bootcamp/BUSCAMASCOTA_woy6ug.jpg"/></a>
             </div>
             <div className="container-fluid">
                 <a className="navbar-brand custom-brand">Home</a>
@@ -21,7 +21,7 @@ function Navbar() {
                 <a className="navbar-brand custom-brand">Colaborar</a>
             </div>
             <div className="container-fluid">
-                <a className="navbar-brand custom-brand disabled">Adopciones</a>
+                <a className="navbar-brand custom-brand2 disabled">Adopciones</a>
             </div>
         </nav>
     </div>
