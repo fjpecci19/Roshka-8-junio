@@ -18,9 +18,23 @@
     background-color: black;
 }
 
+.custom5{
+    background-color: #101046;
+}
+
 .letter{
     color: white;
     font-size: 32px;
+}
+
+.letter2{
+    color: white;
+    font-size: 20px;
+}
+
+.letter3{
+    color: white;
+    font-size: 15px;
 }
 
 img{
@@ -37,7 +51,22 @@ img:hover{
     margin-right: 30px;
 }
 
+.btn-secondary{
+    margin-right: 20px;
+}
+
 .btn-secondary:hover{
     background-color: gray;
     color: whitesmoke;
+}
+
+.perfil{
+    width: 300px;
+    height: 200px;
+}
+
+.icono{
+    width: 98px;
+    height: 50px;
+    margin-right: 10px;
 }
