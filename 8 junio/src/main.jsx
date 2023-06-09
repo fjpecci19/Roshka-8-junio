@@ -4,7 +4,7 @@ import App from './App.jsx'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Publicar from './views/Publicar.jsx'
 
-const router = createBrowserRouter[
+const router = createBrowserRouter([
   {
     path: "/",
     element: <App/>
@@ -13,10 +13,10 @@ const router = createBrowserRouter[
     path: "Publicar",
     element: <Publicar/>
   }
-]
+])
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <App />
+    <RouterProvider router={router}/>
   </React.StrictMode>,
 )
