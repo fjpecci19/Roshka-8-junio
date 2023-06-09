@@ -61,7 +61,6 @@ function Textos() {
                     <div className='letter2'>
                         Sitio creado y administrado por: 
                     </div>
-                    <br />
                     <img className='perfil' src="http://144.126.141.89:8888/static/app/img/3perrosyyo.jpg" alt="" />
                     <br />
                     <div className='letter3'>
