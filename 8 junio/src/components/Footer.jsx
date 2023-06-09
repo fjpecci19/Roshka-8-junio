@@ -1,15 +1,12 @@
 import React from 'react'
+import "./Footer.css"
 
 function Footer() {
   return (
     <div>
-      <div className='container-fluid custom6'>
-            <div className='row'>
-                <div className='col-md-12'>
-                    Copyright © Busca Mascota <br />
-                    Pictures made by Freepik
-                </div>
-            </div>
+        <div className='contenedor'>
+            Copyright © Busca Mascota <br />
+            Pictures made by Freepik
         </div>
     </div>
   )

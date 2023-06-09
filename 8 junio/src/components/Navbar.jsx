@@ -1,6 +1,5 @@
 import React from 'react'
 import "./Navbar.css"
-import {Link} from "react-router-dom"
 
 function Navbar() {
   return (
@@ -10,10 +9,10 @@ function Navbar() {
                 <a className="navbar-brand custom-brand"><img className='perro' src="https://res.cloudinary.com/dkqtquwsj/image/upload/v1686259508/Bootcamp/BUSCAMASCOTA_woy6ug.jpg"/></a>
             </div>
             <div className="container-fluid">
-                <a className="navbar-brand custom-brand">Home</a>
+                <a className="navbar-brand custom-brand" href='/'>Home</a>
             </div>
             <div className="container-fluid">
-                <a className="navbar-brand custom-brand">Publicar mascota</a>
+                <a className="navbar-brand custom-brand" href='/Publicar'>Publicar mascota</a>
             </div>
             <div className="container-fluid">
                 <a className="navbar-brand custom-brand">Buscar mascota</a>
