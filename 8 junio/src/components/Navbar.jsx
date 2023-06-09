@@ -18,7 +18,7 @@ function Navbar() {
                 <a className="navbar-brand custom-brand">Buscar mascota</a>
             </div>
             <div className="container-fluid">
-                <a className="navbar-brand custom-brand">Colaborar</a>
+                <a className="navbar-brand custom-brand" href='/Colaborar'>Colaborar</a>
             </div>
             <div className="container-fluid">
                 <a className="navbar-brand custom-brand2 disabled">Adopciones</a>
