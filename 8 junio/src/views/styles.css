@@ -131,6 +131,12 @@
     width: 100%;
     font-size: 21px;
     height: 42px;
-    background-color: lightgreen;
-    color: black;
+    background-color: green;
+    color: white;
+}
+
+.publicar:hover{
+    cursor: pointer;
+    background-color: darkgreen;
+    color: whitesmoke;
 }
