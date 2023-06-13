@@ -72,3 +72,65 @@
     font-size: 20px;
     color: black;
 }
+
+.registro-campos{
+    text-align: left;
+    font-size: 18px;
+    color: black;
+}
+
+.registro-select{
+    width: 100%;
+    height: 50px;
+    border: solid black;
+}
+
+.registro-citados{
+    text-indent: 20px;
+    margin-top: 12px;
+    text-align: left;
+    font-size: 16px;
+    color: black;
+}
+
+.registro-input{
+    width: 100%;
+    height: 50px;
+    border: solid black;
+}
+
+.registro-input2{
+    width: 100%;
+    height: 100px;
+    border: solid black;
+    padding-bottom: 60px;
+}
+
+.foto-texto{
+    font-size: 14px;
+    color: black;
+    text-align: left;
+}
+
+.terminos{
+    text-align: left;
+    color: black;
+    font-size: 15px;
+}
+
+.terminos-btn{
+    background-color: white;
+    border: solid black;
+    width: 20px;
+    height: 20px;
+}
+
+.publicar{
+    text-align: center;
+    border: solid black;
+    width: 100%;
+    font-size: 21px;
+    height: 42px;
+    background-color: lightgreen;
+    color: black;
+}
