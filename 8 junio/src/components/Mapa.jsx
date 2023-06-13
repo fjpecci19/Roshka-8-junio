@@ -1,7 +1,7 @@
 import "leaflet/dist/leaflet.css";
 import {MapContainer,TileLayer,Marker,Popup} from "react-leaflet";
 
-const Map = () => {
+const Mapa = () => {
     return (
         <div>
             <MapContainer center={[51.505, -0.09]} zoom={13} scrollWheelZoom={false}>
@@ -19,4 +19,4 @@ const Map = () => {
     )
 }
 
-export default Map
+export default Mapa

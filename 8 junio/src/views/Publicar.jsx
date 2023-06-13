@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
-import Map from '../components/Mapa'
+import Mapa from '../components/Mapa'
 import Creador from '../components/Creador'
 import Footer from '../components/Footer'
 import "./styles.css"
@@ -12,7 +12,7 @@ function Publicar() {
         <h2 className='registro-titulo'>Registro de reporte</h2><br />
         <div className='container'>
           <div className='registro-encabezado'>Elija ubicación o zona cercana donde vio la mascota por última vez:</div><br />
-          <div className='mapa'><Map/></div>
+          <div className='publicar-mapa'><Mapa/></div>
           <div className='registro-campos'>
             Tipo de reporte:
             <select className='registro-select'>
