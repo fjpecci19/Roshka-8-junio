@@ -7,7 +7,7 @@ function Colaborar() {
   return (
     <div>
       <Navbar/>
-      <div className='container fluid'>
+      <div className='container'>
         <div className='colaborar-cabeza'>Puedes colaborar de distintas formas con este proyecto!</div><br />
         <div className='colaborar-titulo'>Contribuir con el código en <img className='varios' src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="" /></div>
         <div className='colaborar-texto'>Puedes colaborar a mejorar el sitio creando un merge request al repositorio con 
