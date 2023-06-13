@@ -15,7 +15,7 @@ function Navbar() {
                 <a className="navbar-brand custom-brand" href='/Publicar'>Publicar mascota</a>
             </div>
             <div className="container-fluid">
-                <a className="navbar-brand custom-brand">Buscar mascota</a>
+                <a className="navbar-brand custom-brand" href='/Buscar'>Buscar mascota</a>
             </div>
             <div className="container-fluid">
                 <a className="navbar-brand custom-brand" href='/Colaborar'>Colaborar</a>
